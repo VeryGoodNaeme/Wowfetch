@@ -1,0 +1,7 @@
+## Interface: 100100
+## Title: Wowfetch
+## Version: 1.0
+## Author: Naeme
+## Notes: Useless addon that displays random information when the "/wowfetch" command is run, inspired by Neofetch
+
+Wowfetch.lua
